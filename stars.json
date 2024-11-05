@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "AIHawk-app/Auto_Jobs_Applier",
+    "stargazers_count": 21641,
+    "open_issues_count": 115,
+    "forks_count": 3162
+  },
+  {
     "full_name": "Stability-AI/stablediffusion",
-    "stargazers_count": 38999,
+    "stargazers_count": 39039,
     "open_issues_count": 290,
-    "forks_count": 5032
+    "forks_count": 5034
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 35699,
+    "stargazers_count": 35703,
     "open_issues_count": 151,
     "forks_count": 3450
   },
   {
     "full_name": "thecodeholic/laravel-vue-ecommerce",
-    "stargazers_count": 621,
+    "stargazers_count": 622,
     "open_issues_count": 14,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "SebLague/Geographical-Adventures",
-    "stargazers_count": 3420,
+    "stargazers_count": 3425,
     "open_issues_count": 40,
-    "forks_count": 491
+    "forks_count": 492
   },
   {
     "full_name": "akaunting/akaunting",
-    "stargazers_count": 8090,
+    "stargazers_count": 8095,
     "open_issues_count": 12,
-    "forks_count": 2455
+    "forks_count": 2457
   },
   {
     "full_name": "teja156/swiggy-total-spent",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 171924,
+    "stargazers_count": 172066,
     "open_issues_count": 17,
-    "forks_count": 21703
+    "forks_count": 21713
   },
   {
     "full_name": "shivaamm/Coding-Practice",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "bcit-ci/CodeIgniter",
-    "stargazers_count": 18269,
+    "stargazers_count": 18270,
     "open_issues_count": 94,
     "forks_count": 7603
   },
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 18500,
-    "open_issues_count": 212,
-    "forks_count": 571
+    "stargazers_count": 18529,
+    "open_issues_count": 210,
+    "forks_count": 570
   },
   {
     "full_name": "adityashinde521/DataShield",
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 63676,
+    "stargazers_count": 63702,
     "open_issues_count": 81,
     "forks_count": 8921
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 83476,
+    "stargazers_count": 83501,
     "open_issues_count": 111,
     "forks_count": 12341
   },
@@ -103,20 +109,20 @@
   },
   {
     "full_name": "cfenollosa/os-tutorial",
-    "stargazers_count": 27227,
+    "stargazers_count": 27246,
     "open_issues_count": 123,
-    "forks_count": 3299
+    "forks_count": 3301
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 306336,
-    "open_issues_count": 337,
-    "forks_count": 28686
+    "stargazers_count": 306763,
+    "open_issues_count": 338,
+    "forks_count": 28718
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 58770,
-    "open_issues_count": 1,
-    "forks_count": 11509
+    "stargazers_count": 58792,
+    "open_issues_count": 2,
+    "forks_count": 11512
   }
 ]
